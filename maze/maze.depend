@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1533036716 source:/home/kenshin/Documents/RBEI FOCAS/Programming/maze/main.cpp
+	<iostream>
+	"Maze.h"
+
+1533036858 /home/kenshin/Documents/RBEI FOCAS/Programming/maze/include/Maze.h
+
+1533200163 source:/home/kenshin/Documents/All_beans/CPPMaze/maze/main.cpp
+	<iostream>
+	"include/Maze.h"
+
+1533269787 /home/kenshin/Documents/All_beans/CPPMaze/maze/include/Maze.h
+	<vector>
+
